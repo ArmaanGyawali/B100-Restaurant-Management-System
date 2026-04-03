@@ -1,2 +1,24 @@
 # B100-Restaurant-Management-System
-A Python project on Restaurant Management System . Implements Object-Oriented Programming (OOP), file handling for menu/orders, and automated billing logic.
+
+This is my Python project for university. It is a system for a restaurant called "HomeLikeFood". I used Object-Oriented Programming (OOP) to build it . I have used basic loops, different classes with different attributes and objects and also i have shown use of exception handling to stop my program from crashing.
+
+- What this program does:
+1. Customer Registration: Asks for name and helps user pick a table from 1 to 15.
+2. Menu System: Shows a list of food names. If the user wants, they can see full details like price and info.
+3. Ordering: Users can order many items at once. They just type the food name and press enter. Type 'done' when finished.
+4. Update Menu: The manager can add new food items to the 'menu.txt' file.
+5. Billing: Calculates the total price, applies Happy Hour discounts, and saves the receipt to a file.
+
+- Files in this project:
+1. main.py - The main loop where the program runs.
+2. customer.py - Handles customer names and their orders.
+3. manager.py - Calculates the bill and discounts.
+4. menu.py - Loads the food items from the text file.
+5. table.py - Manages if a table is busy or free.
+6. menu.txt - This is where the food data is stored.
+
+- How to use:
+1. Download all files into the same folder.
+2. Open your terminal or VS Code.
+3. Run the command: 'python main.py'
+4. Follow the instructions on the screen!
