@@ -22,3 +22,12 @@ This is my Python project for university. It is a system for a restaurant called
 2. Open your terminal or VS Code.
 3. Run the command: 'python main.py'
 4. Follow the instructions on the screen!
+
+- Example Usage
+Based on a session:
+1.  Start: Enter first name (eg. "Armaan") last name (eg. "gyawali") and pick table (e.g., "5").
+2.  Add item: Just type the food name, price , info and restart the program and the food stored can be found on the end of "menu.txt" file.
+3.  Order: Select Option 3. Type "sushi", "burger", and "tea". Type "done" to finish.
+4.  Edit: Select Option 4 to remove "tea" if the customer changes their mind.
+5.  Move: Select Option 5 to move the customer from Table 5 to Table 1.
+6.  Pay: Select Option 6, enter a discount code, and choose "cash" to save the final bill to 'final_bill.txt'.
