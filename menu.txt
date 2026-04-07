@@ -1,0 +1,16 @@
+ButterChicken,9,Medium,chicken breast cooked in tomato sauce and butter
+Burger,5,Medium, juicy grilled chicken with lettuce and bun
+PastaAlfredo,7,Small,Creamy white sauce pasta with herbs and cheese
+Fries,3,Regular,salted potato chips
+Sandwich,4,Medium, toasted with chicken and melted cheese
+Salad,6,Small,fresh vegetables with mixed greens and light dressing
+Sushi,12,Medium, rice with fish
+Noodles,7,Large,Noodles mixed with spicy tomato sauce
+IceCream,3,Small,Chocolate
+Tea,3,small,Hot drink
+Margherita Pizza ,9,Large, pizza with cheese and tomato sauce
+Momo,7,Medium,dumplings filled with chicken
+butter chicken,20,medium,´less spicy 
+Softdrinks,4,small,(cola/fanta/sprite)
+chickenchilly,15,large,chicken cooked with chilly spicy
+Kabab,7,Large,Chicken Kabab
