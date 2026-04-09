@@ -16,7 +16,7 @@ This is my Python project for university. It is a system for a restaurant called
 4. menu.py - Loads the food items from the text file.
 5. table.py - Manages if a table is busy or free.
 6. menu.txt - This is where the food data is stored.
-7. final_bill.txt - This is the file that get created after the bill it printed to save the receipt.
+7. final_bill.txt - This is the file that get created after the bill is printed to save the receipt.
 
 - How to use:
 1. Download all files into the same folder.
